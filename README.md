@@ -24,23 +24,22 @@ I enjoy transforming ideas into real digital products by combining code, creativ
 
 Currently building:
 
-### 🎵 RavenPlayer
+🐦‍⬛ **Raven Studio**
 
+A creative product studio focused on developing modern digital experiences, mobile applications, and innovative solutions.
+
+Current projects:
+
+🎵 **RavenPlayer**  
 A powerful offline music player for Android designed to deliver a premium listening experience with advanced audio controls, deep customization, and a beautiful modern interface.
 
-Features:
+⏳ **RavenCountdown**  
+A powerful reminder and countdown application for Android with Persian & Gregorian calendars, smart notifications, deep customization, and beautiful sharing experiences.
 
-- 🎧 Offline music playback
-- 🎚️ Professional equalizer system
-- 🔊 Bass boost and 3D audio effects
-- 🎨 Customizable themes and user interface
-- ⏱️ Sleep timer for automatic music shutdown
-- 📝 Personal notes for songs and listening experiences
-- 🖼️ Music information and cover editing
-- 🎤 Manual lyrics support
-- ⚙️ Advanced player settings and customization
+📝 **Pixel Note**  
+A modern note-taking application focused on productivity, organization, and a beautiful user experience.
 
-🔗 [View Project](https://github.com/MehdiRaven/RavenPlayer-App)
+---
 ---
 
 ## 🚀 What I Build
@@ -86,7 +85,19 @@ Features:
 
 ### 🎵 RavenPlayer
 
-A powerful offline music player for Android featuring advanced audio tools, deep customization, and a premium listening experience.
+A powerful offline music player for Android designed to deliver a premium listening experience with advanced audio controls, deep customization, and a beautiful modern interface.
+
+Features:
+
+- 🎧 Offline music playback
+- 🎚️ Professional equalizer system
+- 🔊 Bass boost and 3D audio effects
+- 🎨 Customizable themes and user interface
+- ⏱️ Sleep timer for automatic music shutdown
+- 📝 Personal notes for songs and listening experiences
+- 🖼️ Music information and cover editing
+- 🎤 Manual lyrics support
+- ⚙️ Advanced player settings and customization
 
 🔗 [View Project](https://github.com/MehdiRaven/RavenPlayer-App)
 
