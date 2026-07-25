@@ -74,12 +74,27 @@ A creative space focused on developing innovative applications and digital exper
 
 ## 📂 Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| 🎵 RavenPlayer | A modern offline music player with a clean and powerful experience | ✅ Completed |
-| ⏳ RavenCountdown | A countdown and timer application with a simple modern interface | ✅ Completed |
-| 📝 Pixel Note | A modern note-taking application focused on productivity and beautiful UI | 🚧 In Development |
+### 🎵 RavenPlayer
 
+A modern offline music player for Android with a clean UI and smooth user experience.
+
+🔗 [View Project](https://github.com/MehdiRaven/RavenPlayer-App)
+
+---
+
+### ⏳ RavenCountdown
+
+A simple and modern countdown application designed with a clean interface.
+
+🚧 Coming Soon
+
+---
+
+### 📝 Pixel Note
+
+A modern note-taking application focused on productivity and beautiful design.
+
+🚧 In Development
 ---
 
 ## 🐦‍⬛ Raven Studio
