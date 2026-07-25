@@ -22,7 +22,7 @@ Founder of <b>Raven Studio</b>
 
 Hi, I'm **Mehdi Raven**.
 
-I'm a software developer passionate about creating modern applications, websites, and beautiful user experiences.
+I'm a software developer and creative developer passionate about building modern applications, websites, interactive experiences, and visual content.
 
 I love transforming ideas into real digital products.
 
@@ -38,17 +38,37 @@ A creative space focused on developing innovative applications and digital exper
 📱 Mobile Applications  
 🌐 Modern Websites  
 🎨 UI/UX Experiences  
+🎬 Visual Content  
 ⚡ Digital Products  
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+### 💻 Development
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,java,html,css,js,figma,git,github,androidstudio,vscode,ps,ai" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,html,css,js,git,github,vscode" />
 
 </div>
+
+---
+
+### 🎨 Creative Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae" />
+
+</div>
+
+---
+
+### 🔍 Currently Exploring
+
+🎮 Unity  
+🧊 Blender  
 
 ---
 
