@@ -81,9 +81,18 @@ A powerful offline music player for Android featuring advanced audio tools, deep
 
 ### ⏳ RavenCountdown
 
-A modern countdown application designed with a clean interface and smooth user experience.
+A powerful reminder and countdown application for Android with Persian & Gregorian calendars, smart notifications, deep customization, and beautiful sharing experiences.
 
-🚧 Coming Soon
+Features:
+
+- 📅 Dual calendar support
+- 🔔 Advanced reminder system
+- 🖼️ Poster sharing
+- 🎨 Custom themes and colors
+- 🔐 Privacy and backup features
+- ⏰ Smart alarm-style notifications
+
+🔗 [View Project](https://github.com/MehdiRaven/RavenCountdown)
 
 ---
 
