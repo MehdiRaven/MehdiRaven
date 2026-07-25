@@ -24,10 +24,23 @@ I enjoy transforming ideas into real digital products by combining code, creativ
 
 Currently building:
 
-🐦‍⬛ **Raven Studio**
+### 🎵 RavenPlayer
 
-A creative studio focused on developing innovative applications and digital experiences.
+A powerful offline music player for Android designed to deliver a premium listening experience with advanced audio controls, deep customization, and a beautiful modern interface.
 
+Features:
+
+- 🎧 Offline music playback
+- 🎚️ Professional equalizer system
+- 🔊 Bass boost and 3D audio effects
+- 🎨 Customizable themes and user interface
+- ⏱️ Sleep timer for automatic music shutdown
+- 📝 Personal notes for songs and listening experiences
+- 🖼️ Music information and cover editing
+- 🎤 Manual lyrics support
+- ⚙️ Advanced player settings and customization
+
+🔗 [View Project](https://github.com/MehdiRaven/RavenPlayer-App)
 ---
 
 ## 🚀 What I Build
