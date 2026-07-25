@@ -97,9 +97,9 @@ Building products with focus on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MehdiRaven&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehdiRaven&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiRaven&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiRaven&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
