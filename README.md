@@ -5,15 +5,11 @@
 </div>
 
 <h3 align="center">
-🐦‍⬛ Software Developer | Mobile • Web • UI/UX
+🐦‍⬛ Software Developer • Product Creator • Founder of Raven Studio
 </h3>
 
 <p align="center">
-Building creative digital experiences through code and design.
-</p>
-
-<p align="center">
-Founder of <b>Raven Studio</b>
+Building modern digital products by combining technology, creativity, and design.
 </p>
 
 ---
@@ -22,14 +18,15 @@ Founder of <b>Raven Studio</b>
 
 Hi, I'm **Mehdi Raven**.
 
-I'm a software developer and creative developer passionate about building modern applications, websites, interactive experiences, and visual content.
+I'm a software developer and product creator passionate about building modern applications, websites, and beautiful user experiences.
 
-I love transforming ideas into real digital products.
+I enjoy transforming ideas into real digital products by combining code, creativity, and design.
 
 Currently building:
 
-🐦‍⬛ **Raven Studio**  
-A creative space focused on developing innovative applications and digital experiences.
+🐦‍⬛ **Raven Studio**
+
+A creative studio focused on developing innovative applications and digital experiences.
 
 ---
 
@@ -76,7 +73,7 @@ A creative space focused on developing innovative applications and digital exper
 
 ### 🎵 RavenPlayer
 
-A modern offline music player for Android with a clean UI and smooth user experience.
+A powerful offline music player for Android featuring advanced audio tools, deep customization, and a premium listening experience.
 
 🔗 [View Project](https://github.com/MehdiRaven/RavenPlayer-App)
 
@@ -84,7 +81,7 @@ A modern offline music player for Android with a clean UI and smooth user experi
 
 ### ⏳ RavenCountdown
 
-A simple and modern countdown application designed with a clean interface.
+A modern countdown application designed with a clean interface and smooth user experience.
 
 🚧 Coming Soon
 
@@ -92,9 +89,19 @@ A simple and modern countdown application designed with a clean interface.
 
 ### 📝 Pixel Note
 
-A modern note-taking application focused on productivity and beautiful design.
+A modern note-taking application focused on productivity, organization, and beautiful design.
 
 🚧 In Development
+
+---
+
+## 🎯 Current Focus
+
+🐦‍⬛ Building Raven Studio  
+📱 Developing mobile applications  
+🌐 Creating modern web experiences  
+🎨 Improving UI/UX design skills  
+
 ---
 
 ## 🐦‍⬛ Raven Studio
@@ -103,8 +110,8 @@ Building products with focus on:
 
 ✨ Clean and modern design  
 ⚡ Smooth performance  
-🎨 Beautiful user experience  
-🚀 Creative solutions  
+🎨 Beautiful user experiences  
+🚀 Creative digital solutions  
 
 ---
 
