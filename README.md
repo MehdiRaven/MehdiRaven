@@ -120,11 +120,24 @@ Features:
 
 ---
 
-### 📝 Pixel Note
+### 🧠 Challengino
 
-A modern note-taking application focused on productivity, organization, and beautiful design.
+A modern and engaging quiz application for Android with 5,000+ multiple-choice questions across different topics, designed to make learning more fun, interactive, and challenging.
 
-🚧 In Development
+Features:
+
+- 🧠 5,000+ knowledge-based questions
+- 🗂️ Multiple categories and difficulty levels
+- ⚡ XP and scoring system
+- 🔥 Daily streaks
+- 📅 Daily & weekly challenges
+- 📊 Detailed statistics and progress tracking
+- 🎁 Rewards and achievements
+- 🎨 Dark & Light themes
+- 🔊 Customizable sound settings
+- 👤 Personalized user profile
+
+🔗 [View Project](https://github.com/MehdiRaven/Challengino)
 
 ---
 
