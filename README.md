@@ -101,6 +101,11 @@ Features:
 
 🔗 [View Project](https://github.com/MehdiRaven/RavenPlayer-App)
 
+📲 **Download:**
+
+- 🛍️ [Cafe Bazaar](https://cafebazaar.ir/app/com.ravenstudio.ravenplayer)
+- 📱 [Myket](https://myket.ir/app/com.ravenstudio.ravenplayer)
+
 ---
 
 ### ⏳ RavenCountdown
@@ -117,6 +122,10 @@ Features:
 - ⏰ Smart alarm-style notifications
 
 🔗 [View Project](https://github.com/MehdiRaven/RavenCountdown)
+
+📲 **Download:**
+
+- 📱 [Myket](https://myket.ir/app/com.ravenstudio.ravencountdown)
 
 ---
 
@@ -138,6 +147,11 @@ Features:
 - 👤 Personalized user profile
 
 🔗 [View Project](https://github.com/MehdiRaven/Challengino)
+
+📲 **Download:**
+
+- 🛍️ [Cafe Bazaar](https://cafebazaar.ir/app/com.ravenstudio.challengeino)
+- 📱 [Myket](https://myket.ir/app/com.ravenstudio.challengeino)
 
 ---
 
