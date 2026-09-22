@@ -36,10 +36,15 @@ A powerful offline music player for Android designed to deliver a premium listen
 ⏳ **RavenCountdown**  
 A powerful reminder and countdown application for Android with Persian & Gregorian calendars, smart notifications, deep customization, and beautiful sharing experiences.
 
+🧠 **Challengino**  
+A modern quiz application for Android designed to make learning more fun, interactive, and challenging.
+
+🐦 **ChippyBird**  
+A challenging arcade game for Android featuring multiple visual themes, dedicated music, and different gameplay modes.
+
 📝 **Pixel Note**  
 A modern note-taking application focused on productivity, organization, and a beautiful user experience.
 
----
 ---
 
 ## 🚀 What I Build
@@ -159,19 +164,22 @@ Features:
 
 A challenging and polished arcade game inspired by classic tap-to-fly gameplay.
 
+Features:
+
 - 🎨 3 unique visual themes
 - 🎵 Dedicated music for each theme
 - 🎮 5 gameplay modes
 - ⭐ Power Mode with temporary pipe immunity
-- 🔥 Multiple Challenge Modes
-- 🌙 Darkness Mode with limited visibility
-- 📱 Published Android Game
+- 🔥 Moving Pipes Challenge
+- ⚡ Speed Challenge
+- 🌙 Darkness Challenge with limited visibility
 
-**Project:** [GitHub Repository](https://github.com/MehdiRaven/ChippyBird)
+🔗 [View Project](https://github.com/MehdiRaven/ChippyBird)
 
-**📲 Download:**
-[![Bazaar](https://img.shields.io/badge/Bazaar-Download-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://cafebazaar.ir/app/com.ravenstudio.chippybird)
-[![Myket](https://img.shields.io/badge/Myket-Download-00A98F?style=for-the-badge&logo=android&logoColor=white)](https://myket.ir/app/com.ravenstudio.chippybird)
+📲 **Download:**
+
+- 🛍️ [Cafe Bazaar](https://cafebazaar.ir/app/com.ravenstudio.chippybird)
+- 📱 [Myket](https://myket.ir/app/com.ravenstudio.chippybird)
 
 ---
 
