@@ -155,6 +155,26 @@ Features:
 
 ---
 
+### 🐦 ChippyBird
+
+A challenging and polished arcade game inspired by classic tap-to-fly gameplay.
+
+- 🎨 3 unique visual themes
+- 🎵 Dedicated music for each theme
+- 🎮 5 gameplay modes
+- ⭐ Power Mode with temporary pipe immunity
+- 🔥 Multiple Challenge Modes
+- 🌙 Darkness Mode with limited visibility
+- 📱 Published Android Game
+
+**Project:** [GitHub Repository](https://github.com/MehdiRaven/ChippyBird)
+
+**📲 Download:**
+[![Bazaar](https://img.shields.io/badge/Bazaar-Download-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://cafebazaar.ir/app/com.ravenstudio.chippybird)
+[![Myket](https://img.shields.io/badge/Myket-Download-00A98F?style=for-the-badge&logo=android&logoColor=white)](https://myket.ir/app/com.ravenstudio.chippybird)
+
+---
+
 ## 🎯 Current Focus
 
 🐦‍⬛ Building Raven Studio  
