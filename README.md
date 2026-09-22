@@ -42,9 +42,6 @@ A modern quiz application for Android designed to make learning more fun, intera
 🐦 **ChippyBird**  
 A challenging arcade game for Android featuring multiple visual themes, dedicated music, and different gameplay modes.
 
-📝 **Pixel Note**  
-A modern note-taking application focused on productivity, organization, and a beautiful user experience.
-
 ---
 
 ## 🚀 What I Build
